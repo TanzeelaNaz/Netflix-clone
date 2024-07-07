@@ -1,0 +1,33 @@
+body {
+background-image: url("images/netflix-background.png");
+}
+
+
+ .dropdown {
+    margin-left: 50vw;
+}
+ 
+.main {
+    margin-top: 12%;
+}
+
+h1,h4,h5 {
+    text-align: center;
+    line-height: 2;
+}
+
+.email  {
+    width:60%;
+    height: 70px;
+ margin-left: 29vw;
+background-color: transparent !important;
+color: white !important;
+
+}
+
+.start-button {
+    width:15%;
+    height:70px;
+ margin-left: 12vw;
+
+}
